@@ -1049,8 +1049,9 @@ section {
   font-size: 13px;
 }
 .profile-picture {
-  height: 500px;
-  width: auto;
+  height: 425px;
+  width: 100%;
+  object-fit: contain;
 }
 .penelitian {
    display: flex;
